@@ -1,0 +1,10 @@
+/* In a global <style> block or style.css */
+.slidev-layout p {
+  font-size: 1.5rem ;
+}
+
+.slidev-layout p,
+.slidev-layout ul,
+.slidev-layout li {
+  font-size: 1.5rem ;
+}
