@@ -279,9 +279,19 @@ Hammer, meet Nail
 
 </div>
 
+<div style="display: flex; flex-direction: row; justify-content: space-around;">
+
+
 <div>
   <img src="./img/linkedin-qr-code.jpg"  width="200">
   <div>linkedin</div>
+</div>
+
+<div>
+  <img src="./img/slides-qr.jpg"  width="200">
+  <div>slides</div>
+</div>
+
 </div>
 
 </div>
